@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>YHRootVcName</key>
+		<string>YHRecentsController</string>
+		<key>YHTabBarTitle</key>
+		<string>通话记录</string>
+		<key>YHSelectedImageName</key>
+		<string>icon_tab_calllog_selected</string>
+		<key>YHNorImageName</key>
+		<string>icon_tab_calllog</string>
+	</dict>
+	<dict>
+		<key>YHRootVcName</key>
+		<string>YHContactsController</string>
+		<key>YHTabBarTitle</key>
+		<string>联系人</string>
+		<key>YHSelectedImageName</key>
+		<string>icon_tab_contact_selected</string>
+		<key>YHNorImageName</key>
+		<string>icon_tab_contact</string>
+	</dict>
+	<dict>
+		<key>YHRootVcName</key>
+		<string>YHKeypadController</string>
+		<key>YHTabBarTitle</key>
+		<string>拨号</string>
+		<key>YHSelectedImageName</key>
+		<string>icon_tab_Dia_selectedl</string>
+		<key>YHNorImageName</key>
+		<string>icon_tab_Dial</string>
+	</dict>
+	<dict>
+		<key>YHRootVcName</key>
+		<string>YHSettingController</string>
+		<key>YHTabBarTitle</key>
+		<string>设置</string>
+		<key>YHSelectedImageName</key>
+		<string>icon_tab_setting_selected</string>
+		<key>YHNorImageName</key>
+		<string>icon_tab_setting</string>
+	</dict>
+</array>
+</plist>

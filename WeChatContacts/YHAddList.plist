@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>YHTitle</key>
+		<string>发起群聊</string>
+		<key>YHIcon</key>
+		<string>icon_pop_talk</string>
+		<key>YHTargetVc</key>
+		<string>YHSelectContactsController</string>
+	</dict>
+	<dict>
+		<key>YHTitle</key>
+		<string>一起玩游戏</string>
+		<key>YHIcon</key>
+		<string>icon_pop_game</string>
+		<key>YHTargetVc</key>
+		<string>YHPlayTogetherController</string>
+	</dict>
+</array>
+</plist>
